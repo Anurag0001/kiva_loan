@@ -17,3 +17,16 @@ For the locations in which Kiva has active loans, your objective is to pair Kiva
 
 A good solution would connect the features of each loan or product to one of several poverty mapping datasets, which indicate the average level of welfare in a region on as granular a level as possible. Many datasets indicate the poverty rate in a given area, with varying levels of granularity. Kiva would like to be able to disaggregate these regional averages by gender, sector, or borrowing behavior in order to estimate a Kiva borrower’s level of welfare using all of the relevant information about them. Strong submissions will attempt to map vaguely described locations to more accurate geocodes.
 
+References
+[1] Kiva, https://www.kaggle.com/kiva
+
+[2] Data Science for Good: Kiva Crowdfunding, Kaggle Dataset, https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding
+
+[3] UN Data country profiles, Kaggle Dataset, https://www.kaggle.com/sudalairajkumar/undata-country-profiles
+
+[4] Multidimensional poverty index (MPI), http://hdr.undp.org/en/content/multidimensional-poverty-index-mpi
+
+[5] Multidimensional poverty index, Wikipedia, https://en.wikipedia.org/wiki/Multidimensional_Poverty_Index
+
+[6] Kiva: Loans that change lives, https://theglobalheroes.wordpress.com/2012/11/01/kiva-loans-that-change-lives/
+
